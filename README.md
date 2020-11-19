@@ -31,13 +31,15 @@ En este caso a el usuario no le parece tan necesaria solo una sección para el p
 ## Wireframes.
 Bocetos: De acuerdo a las pruebas de usabilidad y el mapa de navegación realice los bocetos manuales para proseguir con los wireframes de baja y alta fidelidad.
 
-<img src="images/boc1.jpeg" width= 300 center>
-<img src="images/boc2.jpeg" width= 300 center>
+<img src="images/boc1.jpeg" width= 300 >
+<img src="images/boc2.jpeg" width= 300 >
 
 
 
 Wireframes de baja fidelidad. 
-Para realizar los wireframes de de baja fidelidad me apoyé en el software Mockup Plus y Cacoo.
+Para realizar los wireframes de de baja fidelidad me apoyé en la pagina Cacoo.
+<div align="center"><img src="images/wireframe.png" width= 400 center></div>
+<div align="center"><img src="images/profile.png" width= 400 center></div>
 
 Wireframes de Alta fidelidad.
 El prototipo final se realizó en Figma.
