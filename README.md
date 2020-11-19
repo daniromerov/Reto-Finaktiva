@@ -30,6 +30,7 @@ En este caso a el usuario no le parece tan necesaria solo una sección para el p
 
 ## Wireframes.
 Bocetos: De acuerdo a las pruebas de usabilidad y el mapa de navegación realice los bocetos manuales para proseguir con los wireframes de baja y alta fidelidad.
+<img src="images/diagrama.png" width= 400 center>
 
 
 
