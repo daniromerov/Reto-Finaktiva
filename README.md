@@ -1,7 +1,5 @@
 # Reto-Finaktiva
 
-<div align="center"><img src="images/logo.png" width= 400 center></div>
-<br>
 <div align="center"><img src="images/Banner.jpg" width= 800 center></div>
 
 ## Definición del producto
