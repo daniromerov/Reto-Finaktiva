@@ -6,7 +6,7 @@
 
 Finaktiva es una plataforma de crédito digital, donde desarrollan soluciones de inclusión financiera para potenciar el crecimiento del emprendimiento de alto impacto y las Pyme en Colombia.
 
-Los clientes/usuarios son emprendedores que necesitan financiación para crecer. Cuando adquieren su crédito necesitan un espacio en la plataforma que les brinde claridad en su proceso.
+Los clientes/usuarios son emprendedores que necesitan financiación para crecer. Cuando adquieren su crédito necesitan un espacio en la plataforma **que** les brinde claridad en su proceso.
 
 
 ## Pruebas de usabilidad: 
@@ -28,22 +28,29 @@ En este caso a el usuario no le parece tan necesaria solo una sección para el p
 
 ## UI
 
-## Wireframes.
-Bocetos: De acuerdo a las pruebas de usabilidad y el mapa de navegación realice los bocetos manuales para proseguir con los wireframes de baja y alta fidelidad.
+## Wireframes:
+
+## Bocetos.
+De acuerdo a las pruebas de usabilidad y el mapa de navegación realice los bocetos manuales para proseguir con los wireframes de baja y alta fidelidad.
 
 <div align="center"><img src="images/boc1.jpeg" width= 300  center></div>
 <div align="center"><img src="images/boc2.jpeg" width= 300 center></div>
 
 
 
-Wireframes de baja fidelidad. 
-Para realizar los wireframes de de baja fidelidad me apoyé en la pagina Cacoo.
+## Wireframes de baja fidelidad. 
+Para realizar los wireframes de de baja fidelidad me apoyé en la pagina [Cacoo](https://cacoo.com/).
 <div align="center"><img src="images/wireframe.png" width= 400 center></div>
 <div align="center"><img src="images/profile.png" width= 400 center></div>
 
-Wireframes de Alta fidelidad.
+## Wireframes de Alta fidelidad.
 El prototipo final se realizó en Figma.
 
+Desktop: [Figma Desktop](https://www.figma.com/proto/1VWGFv6zmUb3aPvL3VSAod/FInaktiva?node-id=337%3A107&scaling=scale-down)
+
+Mobile: [Figma Mobile](https://www.figma.com/proto/1VWGFv6zmUb3aPvL3VSAod/FInaktiva?node-id=337%3A3&scaling=scale-down) 
+
+Prototipo: https://www.figma.com/file/1VWGFv6zmUb3aPvL3VSAod/FInaktiva?node-id=0%3A1
 
 ## Modboard: 
 Tome como referente la pagina Finaktiva para mantener una armonía visual uniforme, tomando principalmente como referencia el componente de Calcula tu crédito y sus elementos.
@@ -51,4 +58,4 @@ Procedí a generar la guía de estilos, donde se definen los colores, fuentes, b
 
 <div align="center"><img src="images/pantone.jpeg" width= 400 center></div>
 
-<div align="center"><img src="images/tipografia.jpg" width= 400 center></div>
+<div align="center"><img src="images/Interfont.jpg" width= 400 center></div>
