@@ -1,6 +1,8 @@
 # Reto-Finaktiva
 
 <div align="center"><img src="images/logo.png" width= 400 center></div>
+<br>
+<div align="center"><img src="images/Banner.jpg" width= 800 center></div>
 
 ## Definición del producto
 
@@ -46,7 +48,7 @@ Para realizar los wireframes de de baja fidelidad me apoyé en la pagina [Cacoo]
 ## Wireframes de Alta fidelidad.
 El prototipo final se realizó en Figma.
 
-Desktop: [Figma Desktop](https://www.figma.com/proto/1VWGFv6zmUb3aPvL3VSAod/FInaktiva?node-id=337%3A107&scaling=scale-down)
+Desktop: [Figma Desktop](https://www.figma.com/proto/1VWGFv6zmUb3aPvL3VSAod/FInaktiva?node-id=1%3A2&scaling=contain)
 
 Mobile: [Figma Mobile](https://www.figma.com/proto/1VWGFv6zmUb3aPvL3VSAod/FInaktiva?node-id=337%3A3&scaling=scale-down) 
 
